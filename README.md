@@ -1,6 +1,6 @@
 # Java Program Design
 ## 简介
- 这是我在学习中国大学MOOC北京大学唐大仕老师的《Java程序设计》的过程中写的代码，其中LearnJava里的代码是我个人写的，另一个文件夹里有课程PDF和示例代码。  
+ 这是我在学习中国大学MOOC北京大学唐大仕老师的《Java程序设计》的过程中写的代码，其中LearnJava里的代码是我个人写的，PKU-MOOC-JavaExample里有课程PDF和示例代码。  
  
 **MOOC地址**：[Java程序设计](https://www.icourse163.org/course/PKU-1001941004)  
 
