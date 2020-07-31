@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- My BookList -->
+<books>
+	<book isbn="1861004877" topic="Java">
+		<title>Java Programming with JDK8</title>
+		<publisher>Wrox Press</publisher>
+		<author>Burton Harvey</author>
+		<author>Simon Robinson</author>
+		<author>Julian Templeman</author>
+		<author>Simon Watson</author>
+		<price>34.99</price>
+	</book>
+	<book isbn="1861004915" topic="C++">
+		<title>C++ Programming with the Public Beta</title>
+		<publisher>Wrox Press</publisher>
+		<author>Billy Hollis</author>
+		<author>Rockford Lhotka</author>
+		<price>34.99</price>
+	</book>
+	<book isbn="1893115860" topic="Java">
+		<title>A Programmers'  Introduction to Java</title>
+		<publisher>APress</publisher>
+		<author>Eric Gunnerson</author>
+		<price>34.95</price>
+	</book>
+	<book isbn="073561377X" topic="VB">
+		<title>Introducing Microsoft VB.NET</title>
+		<publisher>Microsoft Press</publisher>
+		<author>David Platt</author>
+		<price>29.99</price>
+	</book>
+</books>

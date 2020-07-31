@@ -1,0 +1,126 @@
+import java.awt.*;
+import java.awt.event.*;
+import java.applet.*;
+import javax.swing.*;
+import java.net.*;
+import java.io.*;
+
+public class ChatClient extends JFrame  implements Runnable{
+  boolean isStandalone = false;
+  public ChatClient() {
+    try {
+      init();
+    }
+    catch(Exception e) {
+      e.printStackTrace();
+    }
+ }
+
+  public static void main(String[] args) {
+    ChatClient c = new ChatClient();
+    c.setVisible(true);
+   }
+
+  JTextField txtInput = new JTextField();
+  JButton btnSend = new JButton();
+  JButton btnStart = new JButton();
+  JList<String> lstMsg = new JList<>();
+  DefaultListModel<String> lstMsgModel = new DefaultListModel<>();
+
+  Socket sock;
+  Thread thread;
+  BufferedReader in;
+  PrintWriter out;
+  public final static int DEFAULT_PORT = 6543;
+  boolean bConnected;
+
+  	public void startConnect() {
+		bConnected = false;
+		try {
+            sock = new Socket( "127.0.0.1", DEFAULT_PORT);
+            bConnected = true;
+			processMsg("Connection ok");
+            in = new BufferedReader(
+				new InputStreamReader(sock.getInputStream()));
+            out = new java.io.PrintWriter(sock.getOutputStream());
+		} catch(IOException e) {
+			e.printStackTrace();
+			processMsg("Connection failed");
+		}
+		if(thread == null) {
+			thread = new Thread(this);
+			thread.start();
+		}
+	}
+
+    public void run(){
+		while(true){
+		    try{
+		        String msg = receiveMsg();
+		        Thread.sleep(100L);  //????
+		        if( msg != null ){
+		            processMsg( msg );
+		        }
+		    } catch( IOException e ){
+                e.printStackTrace();
+		    } catch( InterruptedException ei){}
+		}
+    }
+
+    public  void sendMsg(String msg) throws IOException{
+		out.println( msg );
+		out.flush();
+	}
+
+	public  String receiveMsg()  throws IOException{
+		try {
+			String msg = in.readLine();
+			return msg;
+		} catch(IOException e) {
+            e.printStackTrace();
+		}
+		return "";
+	}
+
+   	public void processMsg( String str ){
+		final String str2 = str;
+        SwingUtilities.invokeLater( ()->{
+			lstMsgModel.addElement(str2);
+		});
+	}
+
+    private void init() throws Exception  {
+    txtInput.setText("please input here");
+    txtInput.setBounds(new Rectangle(42, 234, 196, 34));
+    getContentPane().setLayout(null);
+    this.setSize(new Dimension(500, 300));
+    this.setTitle("Chat Client");
+    btnSend.setText("Send");
+    btnSend.setBounds(new Rectangle(258, 235, 70, 35));
+    btnStart.setText("Connect To Server");
+    btnStart.setBounds(new Rectangle(338, 235, 150, 35));
+    lstMsg.setBounds(new Rectangle(42, 32, 319, 192));
+	
+	lstMsg.setModel(lstMsgModel);
+
+    getContentPane().add(txtInput, null);
+    getContentPane().add(btnSend, null);
+    getContentPane().add(btnStart, null);
+    getContentPane().add(lstMsg, null);
+
+	btnSend.addActionListener(e-> {
+          if( txtInput.getText().length() != 0 ){
+			try{
+                  sendMsg( txtInput.getText() );
+			}catch(IOException e2){ processMsg(e2.toString());}
+	   }
+
+    });
+
+	btnStart.addActionListener(e-> {
+		this.startConnect() ;
+	});
+
+  }
+
+}

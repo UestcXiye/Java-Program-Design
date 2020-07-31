@@ -1,0 +1,16 @@
+import java.io.*;
+class TryWithResourcesTest{
+	public static void main(String ... args){
+
+BufferedReader br=null;
+  try{
+  br=new BufferedReader(new FileReader(path));
+  return br.readLine();
+  }catch(IOException e){
+   e.printStackTrace();
+  }finally{
+   if(br!=null)
+     br.close();
+  }
+  }
+  }

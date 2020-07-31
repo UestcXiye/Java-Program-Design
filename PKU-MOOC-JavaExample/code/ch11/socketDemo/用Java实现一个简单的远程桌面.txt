@@ -1,0 +1,2 @@
+用Java实现一个简单的远程桌面
+http://www.cnblogs.com/jessiejacky/archive/2011/06/21/2086164.html

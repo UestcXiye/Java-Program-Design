@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="JdbcDemo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ch11/JdbcDemo/sqlitejdbc-v037-nested.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ch11/JdbcDemo/mysql-connector-java-5.1.30-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ch11/JdbcDemo/sqljdbc4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

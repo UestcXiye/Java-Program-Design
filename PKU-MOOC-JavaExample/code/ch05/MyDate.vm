@@ -1,0 +1,66 @@
+Compiled from MyDate.java
+public class MyDate extends java.lang.Object {
+    private int day;
+    private int month;
+    private int year;
+    public MyDate(int,int,int);
+    public void display();
+    public static void main(java.lang.String[]);
+}
+
+Method MyDate(int,int,int)
+   0 aload_0
+   1 invokespecial #1 <Method java.lang.Object()>
+   4 aload_0
+   5 bipush 12
+   7 putfield #2 <Field int day>
+  10 aload_0
+  11 bipush 6
+  13 putfield #3 <Field int month>
+  16 aload_0
+  17 sipush 1900
+  20 putfield #4 <Field int year>
+  23 aload_0
+  24 iload_1
+  25 putfield #4 <Field int year>
+  28 aload_0
+  29 iload_2
+  30 putfield #3 <Field int month>
+  33 aload_0
+  34 iload_3
+  35 putfield #2 <Field int day>
+  38 return
+
+Method void display()
+   0 getstatic #5 <Field java.io.PrintStream out>
+   3 new #6 <Class java.lang.StringBuffer>
+   6 dup
+   7 invokespecial #7 <Method java.lang.StringBuffer()>
+  10 aload_0
+  11 getfield #4 <Field int year>
+  14 invokevirtual #8 <Method java.lang.StringBuffer append(int)>
+  17 ldc #9 <String " / ">
+  19 invokevirtual #10 <Method java.lang.StringBuffer append(java.lang.String)>
+  22 aload_0
+  23 getfield #3 <Field int month>
+  26 invokevirtual #8 <Method java.lang.StringBuffer append(int)>
+  29 ldc #9 <String " / ">
+  31 invokevirtual #10 <Method java.lang.StringBuffer append(java.lang.String)>
+  34 aload_0
+  35 getfield #2 <Field int day>
+  38 invokevirtual #8 <Method java.lang.StringBuffer append(int)>
+  41 invokevirtual #11 <Method java.lang.String toString()>
+  44 invokevirtual #12 <Method void println(java.lang.String)>
+  47 return
+
+Method void main(java.lang.String[])
+   0 new #13 <Class MyDate>
+   3 dup
+   4 bipush 22
+   6 bipush 9
+   8 sipush 2003
+  11 invokespecial #14 <Method MyDate(int,int,int)>
+  14 astore_1
+  15 aload_1
+  16 invokevirtual #15 <Method void display()>
+  19 return

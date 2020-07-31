@@ -1,0 +1,7 @@
+visit file
+http://localhost:8080/index.htm
+http://localhost:8080/aaa.htm
+
+visit Servlet:
+http://localhost:8080/servlet/EchoServlet
+http://localhost:8080/servlet/SqrtServlet?n=34

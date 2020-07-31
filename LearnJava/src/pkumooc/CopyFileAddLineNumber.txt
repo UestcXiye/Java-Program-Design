@@ -1,0 +1,48 @@
+1: 	package pkumooc;
+2: 	
+3: 	import java.io.*;
+4: 	
+5: 	/**
+6: 	 * @author liuwenchen
+7: 	 * @create 2020-07-11 11:11
+8: 	 */
+9: 	
+10: 	public class CopyFileAddLineNumber {
+11: 	    public static void main(String[] args) {
+12: 	        String infname = "C:\\Users\\81228\\Documents\\Program\\Java Program\\LearnJava\\src\\pkumooc\\CopyFileAddLineNumber.java";
+13: 	        String outfname = "C:\\Users\\81228\\Documents\\Program\\Java Program\\LearnJava\\src\\pkumooc\\CopyFileAddLineNumber.txt";
+14: 	        if( args.length >= 1 ) infname = args[0];
+15: 	        if( args.length >= 2 ) outfname = args[1];
+16: 	
+17: 	        try {
+18: 	            File fin = new File(infname);
+19: 	            File fout = new File(outfname);
+20: 	
+21: 	            BufferedReader in = new BufferedReader(new FileReader(fin));
+22: 	            PrintWriter out  = new PrintWriter(new FileWriter(fout));
+23: 	
+24: 	            int cnt = 0;
+25: 	            String s = in.readLine();
+26: 	            while ( s != null ) {
+27: 	                cnt++;
+28: 	                s = deleteComments(s);
+29: 	                out.println(cnt + ": \t" + s );
+30: 	                s = in.readLine();
+31: 	            }
+32: 	            in.close();
+33: 	            out.close();
+34: 	        } catch (FileNotFoundException e1) {
+35: 	            System.err.println("File not found!" );
+36: 	        } catch (IOException e2) {
+37: 	            e2.printStackTrace();
+38: 	        }
+39: 	    }
+40: 	
+41: 	    static String deleteComments(String s)
+42: 	    {
+43: 	        if(s==null) return s;
+44: 	        int pos=s.indexOf( "
+45: 	        if(pos<0) return s;
+46: 	        return s.substring(0,pos);
+47: 	    }
+48: 	}

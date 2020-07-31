@@ -1,0 +1,1409 @@
+	always	ad.总是，一直；永远	5C:lweiz7 5R:lwEz
+	ability	n.能力；能耐，本领	E5biliti
+	able	a.有能力的；出色的	5eibl
+	abnormal	a.不正常的；变态的	Ab5nC:mEl
+	aboard	ad.在船(车)上；上船	E5bC:d
+	about	prep.关于；在…周围	E5bBut
+	above	prep.在…上面；高于	E5bQv
+	abroad	ad.(在)国外；到处	E5brC:d
+	absence	n.缺席，不在场；缺乏	5AbsEns
+	absent	a.不在场的；缺乏的	5AbsEnt7 Eb5sent
+	absolute	a.绝对的；纯粹的	5AbsElu:t
+	absolutely	ad.完全地；绝对地	5AbsElu:tli
+	absorb	vt.吸收；使专心	Eb5sC:b
+	abstract	a.抽象的 n.摘要	5AbstrAkt
+	abundant	a.丰富的；大量的	E5bQndEnt
+	abuse	vt.滥用；虐待 n.滥用	E5bju:z7 E5bju:s
+	academic	a.学院的；学术的	AkE5demik
+	academy	n.私立中学；专科院校	E5kAdEmi
+	accelerate	vt.(使)加快；促进	Ak5selEreit
+	acceleration	n.加速；加速度	AkselE5reiFEn
+	accent	n.口音，腔调；重音	5AksEnt7 Ak5sent
+	accept	vt.vi.接受；同意	Ek5sept
+	acceptable	a.可接受的，合意的	Ek5septEbl
+	acceptance	n.接受，验收；承认	Ek5septEns
+	access	n.接近；通道，入口	5Akses
+	accessory	n.同谋，从犯；附件	Ak5sesEri
+	accident	n.意外的；事故	5AksidEnt
+	accidental	a.偶然的；非本质的	Aksi5dentl
+	accommodate	vt.容纳；供应，供给	E5kCmEdeit
+	accommodation	n.招待设备；预定铺位	E7kCmE5deiFEn
+	accompany	vt.陪伴，陪同；伴随	E5kQmpEni
+	accomplish	vt.达到(目的)；完成	E5kCmpliF
+	accord	vt.使一致；给予	E5kC:d
+	accordance	n.一致；和谐；授予	E5kC:dEns
+	accordingly	ad.因此，所以；照着	E5kC:diNli
+	account	n.记述；解释；帐目	E5kBunt
+	accumulate	vt.积累 vi.堆积	E5kju:mjuleit
+	accuracy	n.准确(性)；准确度	5AkjurEsi
+	accurate	a.准确的，正确无误的	5Akjurit
+	accuse	vt.指责；归咎于	E5kju:z
+	accustom	vt.使习惯	E5kQstEm
+	accustomed	a.惯常的；习惯的	E5kQstEmd
+	ache	vi.痛；想念 n.疼痛	eik
+	achieve	vt.完成，实现；达到	E5tFi:v
+	achievement	n.完成；成就，成绩	E5tFi:vmEnt
+	acid	n.酸；酸的，酸性的	5Asid
+	acquaintance	n.认识；了解；熟人	E5kweintEns
+	acquire	vt.取得；获得；学到	E5kwBiE
+	acre	n.英亩(=6.07亩)	5eikE
+	across	prep.横过；在…对面	E5krCs
+	act	vi.行动；见效 n.行为	Akt
+	action	n.行动；作用；功能	5AkFEn
+	active	a.活跃的；积极的	5Aktiv
+	activity	n.活动；活力；行动	Ak5tiviti
+	actor	n.男演员；演剧的人	5AktE
+	actress	n.女演员	5Aktris
+	actual	a.实际的；现行的	5AktjuEl
+	actually	ad.实际上；竟然	5AktjuEli
+	acute	a.尖的，锐的；敏锐的	E5kju:t
+	ad	n.广告	Ad
+	adapt	vt.使适应；改编	E5dApt
+	add	vt.添加，附加，掺加	Ad
+	addition	n.加，加法；附加物	E5diFEn
+	additional	a.附加的，追加的	E5diFEnl
+	address	n.地址；演说；谈吐	E5dres
+	adequate	a.足够的；可以胜任的	5Adikwit
+	adjective	n.形容词 a.形容词的	5AdViktiv
+	administration	n.管理；管理部门	Edminis5treiFEn
+	admire	vt.钦佩，羡慕，赞赏	Ed5mBiE
+	admission	n.允许进入；承认	Ed5miFEn
+	admit	vt.承认；准许…进入	Ed5mit
+	adopt	vt.收养；采用；采取	E5dCpt
+	adult	n.成年人 a.成年的	5AdQlt
+	advance	vi.前进；提高 n.进展	Ed5vB:ns
+	advanced	a.先进的；高级的	Ed5vB:nst
+	advantage	n.优点，优势；好处	Ed5vB:ntidV
+	adventure	n.冒险；惊险活动	Ed5ventFE
+	adverb	n.副词	5AdvE:b
+	advertisement	n.广告；公告；登广告	Ed5vE:tismEnt
+	advice	n.劝告；忠告；意见	Ed5vBis
+	advisable	n.明智的；可取的	Ed5vBizEbl
+	advise	vt.劝告；建议；通知	Ed5vBiz
+	aeroplane	n.飞机	5eErEplein
+	affair	n.事情，事件；事务	E5feE
+	affect	vt.影响；感动	E5fekt
+	affection	n.慈爱，爱；爱慕	E5fekFEn
+	afford	vt.担负得起…；提供	E5fC:d
+	afraid	a.害怕的；担心的	E5freid
+	Africa	n.非洲	5AfrikE
+	African	a.非洲的 n.非洲人	5AfrikEn
+	after	prep.在…以后；次于	5B:ftE
+	afternoon	n.下午，午后	5B:ftE5nu:n
+	afterward	ad.后来，以后	5B:ftEwEd(z)
+	again	ad.又一次；而且	E5gein7 E5gen
+	against	prep.倚在；逆，对着	E5geinst7 E5genst
+	age	n.年龄；时代 vt.变老	eidV
+	agency	n.经办；代理；代理处	5eidVEnsi
+	agent	n.代理人，代理商	5eidVEnt
+	aggressive	a.侵略的；好斗的	E5gresiv
+	ago	ad.以前	E5gEu
+	agony	n.极度痛苦	5AgEni
+	agree	vi.同意；持相同意见	E5gri:
+	agreement	n.协定，协议；同意	E5gri:mEnt
+	agriculture	n.农业，农艺；农学	5AgrikQltFE
+	ahead	ad.在前；向前；提前	E5hed
+	aid	n.帮助，救护；助手	eid
+	aim	vi.瞄准，针对；致力	eim
+	air	n.空气；空中；外观	eE
+	aircraft	n.飞机，飞行器	5eEkrB:ft
+	airline	n.航空公司；航线	5eElBin
+	airplane	n.飞机	5eEplein
+	airport	n.机场，航空站	5eEpC:t
+	alarm	n.惊恐，忧虑；警报	E5lB:m
+	alcohol	n.酒精，乙醇	5AlkEhCl
+	alike	a.同样的，相同的	E5lBik
+	alive	a.活着的；活跃的	E5lBiv
+	all	a.全部的 prep.全部	C:l
+	allow	vt.允许，准许；任	E5lBu
+	alloy	n.合金；(金属的)成色	5AlCi7 E5lRi
+	almost	ad.几乎，差不多	5C:lmEust
+	alone	a.单独的 ad.单独地	E5lEun
+	along	prep.沿着 ad.向前	E5lCN
+	aloud	ad.出声地，大声地	E5lBud
+	alphabet	n.字母表，字母系统	5AlfEbit
+	already	ad.早已，已经	C:l5redi
+	also	ad.亦，也；而且，还	5C:lsEu
+	alter	vt.改变，变更；改做	5C:ltE
+	alternative	n.替换物；取舍，抉择	C:l5tE:nEtiv
+	although	conj.尽管，虽然	C:l5TEu
+	altitude	n.高，高度；高处	5Altitju:d
+	altogether	ad.完全；总而言之	C:ltE5geTE
+	always	ad.总是，一直；永远	5C:lweiz7 5R:lwEz
+133	amaze	vt.使惊奇，使惊愕	E5meiz
+	ambition	n.雄心，抱负，野心	Am5biFEn
+	ambulance	n.救护车；野战医院	5AmbjulEns
+	America	n.美洲；美国	E5merikE
+	American	a.美洲的 n.美国人	E5merikEn
+	among	prep.在…之中	E5mQN
+	amongst	prep在…之中(=among)	E5mQNst
+	amount	n.总数；数量；和	E5mBunt
+	ampere	n.安培	5AmpeE
+	amplify	vt.放大，增强；扩大	5AmplifBi
+	amuse	vt.逗…乐；给…娱乐	E5mju:z
+	analyse	vt.分析，分解，解析	5AnElBiz
+	analysis	n.分析，分解，解析	E5nAlEsis
+	ancestor	n.祖宗，祖先	5AnsistE
+	anchor	n.锚 vi.抛锚，停泊	5ANkE
+	ancient	a.古代的，古老的	5einFEnt
+	and	conj.和，又，并，则	And7 End
+	angel	n.天使，神差，安琪儿	5eindVEl
+	anger	n.怒，愤怒 vt.使发怒	5ANgE
+	angle	n.角，角度	5ANgl
+	angry	a.愤怒的，生气的	5ANgri
+	animal	n.动物，兽 a.动物的	5AnimEl
+	ankle	n.踝，踝节部	5ANkl
+	announce	vt.宣布，宣告，发表	E5nBuns
+	announcer	n.宣告者；播音员	E5nBunsE
+	annoy	vt.使恼怒；打搅	E5nCi
+	annual	a.每年的 n.年报	5AnjuEl
+	another	a.再一个的；别的	E5nQTE
+	answer	vt.回答；响应；适应	5B:nsE
+	ant	n.蚂蚁	Ant
+	anticipate	vt.预料，预期，期望	An5tisipeit
+	anxiety	n.焦虑，忧虑；渴望	ANg5zBiEti
+	anxious	a.忧虑的；渴望的	5ANkFEs
+	any	a.什么，一些；任何的	5eni
+	anybody	prep.任何人	5enibCdi
+	anyhow	ad.无论如何	5enihBu
+	anyone	pron.任何人	5eniwQn
+	anything	pron.任何事物；一切	5eniWiN
+	anyway	ad.无论如何	5eniwei
+	anywhere	ad.在什么地方	5eniweE
+	apart	ad.相隔；分开；除去	E5pB:t
+	apartment	n.一套公寓房间	E5pB:tmEnt
+	apologize	vi.道歉，谢罪，认错	E5pClEdVBiz
+	apology	n.道歉，认错，谢罪	E5pClEdVi
+	apparatus	n.器械，仪器；器官	7ApE5reitEs
+	apparent	a.表面上的；明显的	E5pArEnt
+	appeal	vi.&n.呼吁；申述	E5pi:l
+	appear	vi.出现；来到；似乎	E5piE
+	appearance	n.出现，来到；外观	E5piErEns
+	appetite	n.食欲，胃口；欲望	5ApitBit
+	apple	n.苹果，苹果树	5Apl
+	appliance	n.用具，器具，器械	E5plBiEns
+	applicable	a.能应用的；适当的	5AplikEbl
+	application	n.请求，申请；施用	Apli5keiFEn
+	apply	vt.应用，实施，使用	E5plBi
+	appoint	vt.任命，委任；约定	E5pCint
+	appointment	n.任命；约定，约会	E5pCintmEnt
+	appreciate	vt.欣赏；领会；感谢	E5pri:Fieit
+	approach	vt.向…靠近 n.靠近	E5prEutF
+	appropriate	a.适当的，恰当的	E5prEupriit
+	approval	n.赞成，同意；批准	E5pru:vEl
+	approve	vt.赞成，称许；批准	E5pru:v
+	approximate	a.近似的 vt.近似	E5prCksimit
+	approximately	ad.近似地，大约	E5prCksimitli
+	April	n.四月	5eiprEl
+	Arabian	a.阿拉伯的	E5reibjEn
+	arbitrary	a.随心所欲的；专断的	5B:bitrEri
+	architecture	n.建筑学；建筑式样	5B:kitektFE
+	area	n.面积；地区；领域	5eEriE
+	argue	vi.争论，争辩，辩论	5B:gju:
+	argument	n.争论，辩论；理由	5B:gju:mEnt
+	arise	vi.出现；由…引起	E5rBiz
+	arithmetic	n.算术，四则运算	E5riWmEtik
+	arm	n.臂；臂状物；武器	B:m
+	army	n.军队；陆军	5B:mi
+	around	prep.在…周围	E5rBund
+	arouse	vt.引起，唤起；唤醒	E5rBuz
+	arrange	vt.筹备；整理；调解	E5reindV
+	arrangement	n.整理，排列；安排	E5reindVmEnt
+	arrest	vt.逮捕，拘留；阻止	E5rest
+	arrival	n.到达；到来；到达者	E5rBivEl
+	arrive	vi.到达；来临；达到	E5rBiv
+	arrow	n.箭；箭状物	5ArEu
+	art	n.艺术，美术；技术	B:t
+	article	n.文章；条款；物品	5B:tikl
+	artificial	a.人工的；娇揉造作的	B:ti5fiFEl
+	artist	n.艺术家，美术家	5B:tist
+	artistic	a.艺术的；艺术家的	B:5tistik
+	as	conj.当…的时候	Az7 Ez
+	ash	n.灰，灰末；骨灰	AF
+	ashamed	a.惭愧(的)；羞耻(的)	E5Feimd
+	Asia	n.亚洲	5eiFE
+	Asian	a.亚洲的 n.亚洲人	5eiFEn
+	aside	ad.在旁边，到旁边	E5sBid
+	ask	vt.问；要求；邀请	B:sk
+	asleep	a.睡着的，睡熟的	E5sli:p
+	aspect	n.方面；样子，外表	5Aspekt
+	assemble	vt.集合，召集；装配	E5sembl
+	assembly	n.集合；集会；装配	E5sembli
+	assess	vt.对(财产等)估价	E5ses
+	assign	vt.指派；分配；指定	E5sBin
+	assignment	n.任务，指定的作业	E5sBinmEnt
+	assist	vt.援助，帮助；搀扶	E5sist
+	assistant	n.助手，助理；助教	E5sistEnt
+	associate	vi.交往 n.伙伴，同事	E5sEuFieit
+	association	n.协会，团体；联合	EsEusi5eiFEn
+	assume	vt.假定；承担；呈现	E5sju:m
+	assure	vt.使确信；向…保证	E5FuE
+	astonish	vt.使惊讶，使吃惊	Es5tCniF
+	astronaut	n.宇宙航行员，宇航员	5AstFEunC:t
+	at	prep.在…里；在…时	At7 Et
+	athlete	n.运动员；田径运动员	5AWli:t
+	Atlantic	a.大西洋的 n.大西洋	Et5lAntik
+	atmosphere	n.大气；空气；气氛	5AtmEsfiE
+	atmospheric	a.大气的；大气层的	AtmEs5ferik
+	atom	n.原子；微粒；微量	5AtEm
+	atomic	a.原子的；原子能的	E5tCmik
+	attach	vt.缚，系，贴；附加	E5tAtF
+	attack	vt.&vi.&n.攻击，进攻	E5tAk
+	attain	vt.达到，获得，完成	E5tein
+	attempt	vt.尝试，试图 n.企图	E5tempt
+	attend	vt.出席；照顾，护理	E5tend
+	attention	n.注意，留心；注意力	E5tenFEn
+	attentive	a.注意的；有礼貌的	E5tentiv
+	attitude	n.态度，看法；姿势	5Atitju:d
+	attract	vt.吸引；引起，诱惑	E5trAkt
+	attraction	n.吸引；吸引力；引力	E5treAkFEn
+	attractive	a.有吸引力的	E5trAktiv
+	attribute	vt.把…归因于 n.属性	5Atribju:t
+	audience	n.听众，观众，读者	5C:djEns
+	August	n.八月	C:5gQst
+	aunt	n.伯母，婶母，姑母	B:nt
+	aural	a.耳的，听觉的	5CrEl
+	Australia	n.澳大利亚	Cs5treiljE
+	Australian	a.澳大利亚的	Cs5treiljEn
+	author	n.作者，作家	5C:WE
+	authority	n.当局，官方；权力	C:5WRriti
+	auto	n.(口语)汽车	5C:tEu
+	automatic	a.自动的；机械的	C:tE5mAtik
+	automation	n.自动，自动化	C:tE5meiFEn
+	automobile	n.汽车，机动车	5C:tEmEbi:l
+	autumn	n.秋，秋季	5C:tEm
+	auxiliary	a.辅助的；附属的	C:g5ziljEri
+	available	a.可利用的；通用的	E5veilEbl
+	avenue	n.林荫道，道路；大街	5Avinju:
+	average	n.平均数 a.平均的	5AvEridV
+	aviation	n.航空，航空学	eivi5eiFEn
+	avoid	vt.避免，躲开；撤消	E5vCid
+	await	vt.等候，期待	E5weit
+	awake	a.醒着的 vt.唤醒	E5weik
+	award	n.奖，奖品；判定	E5wC:d
+	aware	a.知道的，意识到的	E5weE
+	away	ad.离开，远离；…去	E5wei
+	awful	a.令人不愉快的	5C:ful
+	awfully	ad.令人畏惧的；很	5C:fuli
+	awkward	a.笨拙的；尴尬的	5C:kwEd
+	ax	n.斧子	Aks
+	axis	n.轴，轴线；中心线	5Aksis
+	baby	n.婴儿；孩子气的人	5beibi
+	back	ad.在后；回原处；回	bAk
+	background	n.背景，后景，经历	5bAkgrBund
+	backward	a.向后的；倒的 ad.倒	5bAkwEd
+	bacteria	n.细菌	bAk5tiEriE
+	bad	a.坏的，恶的；严重的	bAd
+	badly	ad.坏，差；严重地	5bAdli
+	badminton	n.羽毛球	5bAdmintEn
+	bag	n.袋，包，钱包，背包	bAg
+	baggage	n.行李	5bAgidV
+	bake	vt.烤，烘，焙；烧硬	beik
+	balance	vt.使平衡；称 n.天平	5bAlEns
+	ball	n.球，球状物；舞会	bC:l
+	balloon	n.气球，玩具气球	bE5lu:n
+	banana	n.香蕉；芭蕉属植物	bE5nB:nE
+	band	n.乐队；带；波段	bAnd
+	bang	n.巨响，枪声；猛击	bAN
+	bank	n.银行；库；岩，堤	bANk
+	banner	n.旗，旗帜，横幅	5bAnE
+	bar	n.酒吧间；条，杆；栅	bB:
+	barber	n.理发师	5bB:bE
+	bare	a.赤裸的；仅仅的	beE
+	bargain	n.交易 vi.议价；成交	5bB:gin
+	bark	n.吠叫声 vi.吠，叫	bB:k
+	barn	n.谷仓；牲口棚	bB:n
+	barrel	n.桶；圆筒；枪管	5bArEl
+	barrier	n.栅栏，屏障；障碍	5bAriE
+	base	n.基础，底层；基地	beis
+	basic	a.基本的，基础的	5beisik
+	basically	ad.基本上	5beisikEli
+	basin	n.盆，洗脸盆；盆地	5beisn
+	basis	n.基础，根据	5beisis
+	basket	n.篮，篓，筐	5bB:skit
+	basketball	n.篮球；篮球运动	5bB:skitbC:l
+	bat	n.球拍；短棍；蝙蝠	bAt
+	bath	n.浴，洗澡；浴缸	bB:W
+	bathe	vt.给…洗澡；弄湿	beiT
+	bathroom	n.浴室；盥洗室	5bB:Wrum
+	battery	n.电池；一套，一组	5bAtEri
+	battle	n.战役；斗争 vi.作战	5bAtl
+	bay	n.湾；山脉中的凹处	bei
+	B.C.	(缩)公元前	5bi: si:
+	be	aux.v.&vi.是，在，做	bi:
+	beach	n.海滩，湖滩，河滩	bi:tF
+	beam	n.梁；横梁；束，柱	bi:m
+	bean	n.豆，蚕豆	bi:n
+	bear	n.熊；粗鲁的人	beE
+	bear	vt.容忍；负担；生育	beE
+	beard	n.胡须，络腮胡子	biEd
+	beast	n.兽，野兽；牲畜	bi:st
+	beat	vt.&vi.打，敲；打败	bi:t
+	beautiful	a.美的，美丽的	5bju:tiful
+	beauty	n.美，美丽；美人	5bju:ti
+	because	conj.由于，因为	bi5kCz
+	become	vi.变成；成为，变得	bi5kQm
+	bed	n.床，床位；圃；河床	bed
+	bee	n.蜂，密蜂；忙碌的人	bi:
+	beef	n.牛肉；菜牛	bi:f
+	beer	n.啤酒	biE
+	before	prep.在…以前；向…	bi5fC:
+	beg	vt.&vi.乞求；请求	beg
+	beggar	n.乞丐，穷人	5begE
+	begin	vi.开始 vt.开始	bi5gin
+	beginner	n.初学者，生手	bi5ginE
+	beginning	n.开始，开端；起源	bi5giniN
+	behalf	n.利益，维护，支持	bi5hB:f
+	behave	vi.表现，举止；运转	bi5heiv
+	behavior	n.行为，举止，态度	bi5heivjE
+	behind	prep.在…后面	bi5hBind
+	being	n.存在；生物；生命	5bi:iN
+	belief	n.信任，相信；信念	bi5li:f
+	believe	vt.相信；认为	bi5li:v
+	bell	n.钟，铃，门铃；钟声	bel
+	belong	vi.属于，附属	bi5lCN
+	beloved	a.为…的爱的 n.爱人	bi5lQvd
+	below	prep.在…下面(以下)	bi5lEu
+	belt	n.带，腰带；皮带；区	belt
+	bench	n.长凳，条凳；工作台	bentF
+	bend	vt.使弯曲 vi.弯曲	bend
+	beneath	prep.在…下方	bi5ni:W
+	diamond	n.金钢石，钻石；菱形	5dBiEmEnd
+	diary	n.日记，日记簿	5dBiEri
+	dictate	vt.&vi.口授；命令	dik5teit
+	dictation	n.口授笔录，听写	dik5teiFEn
+	dictionary	n.词典，字典	5dikFEnEri
+	die	vi.死，死亡；灭亡	dBi
+	differ	vi.不同，相异	5difE
+	difference	n.差别；差；分歧	5difrEns
+	different	a.差异的；各种的	5difrEnt
+	difficult	a.困难的；难对付的	5difikElt
+	difficulty	a.困难；难事；困境	5difikElti
+	dig	vt.掘，挖；采掘	dig
+	digest	vt.消化；领会 n.文摘	di5dVest7 5dBidVest
+	digital	a.数字的，计数的	5didVitl
+	diligent	a.勤勉的，勤奋的	5dilidVEnt
+	dim	a.昏暗的；朦胧的	dim
+	dimension	n.尺寸，尺度；面积	di5menFEn
+	dinner	n.正餐，主餐；宴会	5dinE
+	dip	vt.浸，蘸 vi.浸一浸	dip
+	direct	a.直接的；直率的	di5rekt
+	direction	n.方向，方位；指导	di5rekFEn
+	directly	ad.直接地；立即	di5rektli
+	director	n.指导者；理事；导演	di5rektE
+	dirt	n.尘，土；污物，污垢	dE:t
+	dirty	a.脏的；下流的	5dE:ti
+	disable	vt.使无能，使伤残	dis5eibl
+	disadvantage	n.不利，不利地位	disEd5vB:ntidV
+	disagree	vi.有分歧；不一致	disE5gri:
+	disappear	vi.不见，失踪；消失	disE5piE
+	disappoint	vt.使失望，使受挫折	disE5pCint
+	disaster	n.灾难，灾祸；天灾	di5zB:stE
+	disk	n.圆盘，唱片；磁盘	disk
+	discard	vt.丢弃，抛弃，遗弃	dis5kB:d
+	discharge	vt.释放；排出 n.释放	dis5tFB:dV
+	discipline	n.纪律；训练 vt.训练	5disiplin
+	disclose	vt.揭开，揭发；透露	dis5klEuz
+	discourage	vt.使泄气，使灰心	dis5kQridV
+	discover	vt.发现；暴露，显示	dis5kQvE
+	discovery	n.发现；被发现的事物	dis5kQvEri
+	discuss	vt.讨论，谈论；论述	dis5kQs
+	discussion	n.讨论，谈论；论述	dis5kQFEn
+	disease	n.病，疾病；病害	di5zi:z
+	disguise	vi.隐瞒，掩埋 n.假装	dis5gBiz
+	disgust	n.厌恶，憎恶	dis5gQst
+	downstairs	ad.在楼下 a.楼下的	5dBun5steEz
+	downward	a.向下的 ad.向下地	5dBunwEd
+	dozen	n.一打，十二个	5dQzn
+	draft	n.草稿；汇票 vt.起草	drB:ft
+	drag	vt.拖，拉；拖曳	drAg
+	dragon	n.龙；凶暴的人	5drAgEn
+	drain	vt.排去；放水 n.耗竭	drein
+	drama	n.一出戏剧，剧本	5drB:mE
+	dramatic	a.引人注目的，戏剧的	drE5mAtik
+	draw	vt.画，划；拖；拨出	drC:
+	drawer	n.抽屉	drC:
+	drawing	n.图画，素描；绘图	5drC:iN
+	dread	n.畏惧；恐怖 vt.惧怕	dred
+	dream	n.梦；梦想 vi.做梦	dri:m
+	dress	n.女服，童装；服装	dres
+	drift	vi.漂流，漂泊 n.漂流	drift
+	drill	n.钻头；操练 vi.钻孔	dril
+	drink	vt.饮 vi.喝 n.饮料	driNk
+	drip	vi.滴下；漏水 n.水滴	drip
+	drive	vt.驾驶；打入；驱	drBiv
+	driver	n.驾驶员，司机	5drBivE
+	drop	vt.使落下；降低	drCp
+	drought	n.旱灾，干旱	drBut
+	drown	vi.淹死，溺死	drBun
+	drug	n.药，药物，药材	drQg
+	drum	n.鼓；鼓状物，圆桶	drQm
+	drunk	a.醉的；陶醉的	drQNk
+	dry	a.干的，干燥的	drBi
+	duck	n.鸭，雌鸭；鸭肉	dQk
+	due	a.预期的；应给的	dju:
+	dull	a.枯燥的；不鲜明的	dQl
+	dumb	a.哑的；无言的	dQm
+	dump	vt.倾卸，倾倒；倾销	dQmp
+	durable	a.耐久的，耐用的	5djuErEbl
+	duration	n.持续，持久	djuE5reiFEn
+	during	prep.在…期间	5djuEriN
+	dusk	n.薄暮，黄昏，幽暗	dQsk
+	dust	n.尘土，灰尘	dQst
+	duty	n.职责；责任；税	5dju:ti
+	dwelling	n.住处，寓所	5dweliN
+	dye	vt.染 n.染料；染色	dBi
+	dying	a.垂死的；临终的	5dBiiN
+	dynamic	a.有活力的；动力的	dBi5nAmik
+	each	pron.各，各自 a.各	i:tF
+	eager	a.渴望的，热切的	5i:gE
+	eagle	n.鹰	5i:gl
+	ear	n.耳朵；听力，听觉	iE
+	early	ad.早 a.早的，早期的	5E:li
+	earn	vt.赚得，挣得；获得	E:n
+	earnest	a.认真的，诚恳的	5E:nist
+	earth	n.地球；陆地，地面	E:W
+	eliminate	vt.消灭，消除，排除	i5limineit
+	elimination	n.消灭，排除，消除	ilimi5neiFEn
+	else	ad.其它，另外 a.别的	els
+	elsewhere	ad.在别处，向别处	els5weE
+	embarrass	vt.使窘迫，使为难	im5bArEs
+	embrace	vt.拥抱；包括；包围	im5breis
+	emerge	vi.出现，涌现；冒出	i5mE:dV
+	emergency	n.紧急情况，突然事件	i5mE:dVEnsi
+	emit	vt.散发；发射；发表	i5mit
+	emotion	n.情感，感情；激动	i5mEuFEn
+	emotional	a.感情的，情绪的	i5mEuFEnl
+	emperor	n.皇帝	5empErE
+	emphasis	n.强调，重点，重要性	5emfEsis
+	emphasize	vt.强调，着重	5emfEsBiz
+	empire	n.帝国	5empBiE
+	employ	vi.雇用；用；使忙于	im5plCi
+	employee	n.受雇者，雇员，雇工	emplCi5i:
+	employer	n.雇佣者，雇主	im5plCiE
+	employment	n.工业；雇用；使用	im5plCimEnt
+	empty	a.空的；空洞的	5empti
+	enable	vt.使能够，使可能	i5neibl
+	enclose	vt.围住，圈起；附上	in5klEuz
+	encounter	vt.遭遇，遇到 n.遭遇	in5kBuntE
+	encourage	vt.鼓励，支持，助长	in5kQridV
+	end	n.末端；目标 vt.结束	end
+	ending	n.结尾，结局；死亡	5endiN
+	endless	a.无止境的	5endlis
+	endure	vt.忍受；容忍	in5djuE
+	enemy	n.敌人；仇敌；敌兵	5enimi
+	energy	n.活力；精力；能	5enEdVi
+	enforce	vt.实施，执行；强制	in5fC:s
+	engage	vt.使从事于；聘用	in5geidV
+	engine	n.发动机，引擎；机车	5endVin
+	engineer	n.工程师，技师	endVi5niE
+	engineering	n.工程，工程学	endVi5niEriN
+	England	n.英格兰；英国	5iNglEnd
+	English	n.英语 a.英国人的	5iNgliF
+	Englishman	n.英国男子	5iNgliFmEn
+	enjoy	vt.享受；欣赏，喜爱	in5dVCi
+	enlarge	vt.扩大，扩展；放大	in5lB:dV
+	enormous	a.巨大的，庞大的	i5nC:mEs
+	enough	a.足够的 ad.足够地	i5nQf
+	ensure	vt.保证；保护；赋予	in5FuE
+	enter	vt.走进，进入；参加	5entE
+	entertain	vt.使欢乐；招待	entE5tein
+	evil	n.邪恶；祸害 a.坏的	5i:vl
+	evolution	n.进化，演化；发展	i:vE5lju:FEn
+	evolve	vt.使进化；使发展	i5vClv
+	exact	a.确切的；精确的	ig5zAkt
+	exactly	ad.确切地；恰恰正是	ig5zAktli
+	exaggerate	vt.&vi.夸大，夸张	ig5zAdVEreit
+	exam	n.考试；检查，细查	ig5zAm
+	examination	n.考试；检查，细查	igzAmi5neiFEn
+	examine	vt.检查，仔细观察	ig5zAmin
+	example	n.例子，实例；模范	ig5zB:mpl
+	exceed	vt.超过，胜过；超出	ik5si:d
+	exceedingly	ad.极端地，非常	ik5si:diNli
+	excellent	a.优秀的，杰出的	5eksElEnt
+	except	prep.除…之外	ik5sept
+	exception	n.例外，除外	ik5sepFEn
+	excess	n.超越；过量；过度	ik5ses7 5ekses
+	excessive	a.过多的，极度的	ik5sesiv
+	exchange	vt.交换；交流 n.交换	iks5tFeindV
+	excite	vt.使激动；引起	ik5sBit
+	exciting	a.令人兴奋的	ik5sBitiN
+	exclaim	vi.呼喊；惊叫	iks5kleim
+	exclude	vt.把…排除在外	iks5klu:d
+	exclusively	ad.专门地	iks5klu:sivli
+	excursion	n.远足；短途旅行	iks5kE:FEn
+	excuse	vt.原谅；免除 n.借口	iks5kju:z7 iks5kju:s
+	execute	vt.将…处死；实施	5eksikju:t
+	executive	a.执行的 n.执行者	ig5zekjutiv
+	exercise	n.锻炼，训练 vi.练习	5eksEsBiz
+	exert	vt.尽(力)，运用	ig5zE:t
+	exhaust	vt.使筋疲力尽；用尽	ig5zC:st
+	exhibit	vt.显示；陈列，展览	ig5zibit
+	exhibition	n.展览，陈列；展览会	eksi5biFEn
+	exist	vi.存在；生存，生活	ig5zist
+	existence	n.存在，实在；生存	ig5zistEns
+	exit	n.出口；退场 vi.退出	5eksit
+	expand	vt.扩大；使膨胀	iks5pAnd
+	expansion	n.扩大，扩充；扩张	iks5pAnFEn
+	expect	vt.预料，预期；等待	iks5pekt
+	expectation	n.期待，期望，预期	ekspek5teiFEn
+	expense	n.花费，消费；费用	iks5pens
+	expensive	a.昂贵的，花钱多的	iks5pensiv
+	experience	n.经验，感受；经历	iks5piEriEns
+	experiment	n.实验；试验	iks5perimEnt
+	earthquake	n.地震；大震荡	5E:Wkweik
+	ease	n.容易，舒适 vt.缓和	i:z
+	easily	ad.容易地；舒适的	5i:zili
+	east	n.东；东部 ad.在东方	i:st
+	eastern	a.东方的；朝东的	5i:stEn
+	easy	a.容易的；安逸的	5i:zi
+	eat	vt.吃，喝 vi.吃饭	i:t
+	echo	n.回声，反响 vi.重复	5ekEu
+	economic	a.经济的，经济学的	i:kE5nCmik
+	economical	a.节约的；经济学的	i:kE5nCmikEl
+	economy	n.经济；节约，节省	i(:)5kCnEmi
+	edge	n.边缘，边；刀口	edV
+	edition	n.版，版本，版次	i5diFEn
+	editor	n.编辑，编者，校订者	5editE
+	educate	vt.教育；培养；训练	5edju(:)keit
+	education	n.教育；训导；教育学	edju:5keiFEn
+	effect	n.结果；效果，效力	i5fekt
+	effective	a.有效的；有影响的	i5fektiv
+	efficiency	n.效率；功效，效能	i5fiFEnsi
+	efficient	a.效率高的，有能力的	i5fiFEnt
+	effort	n.努力；努力的成果	5efEt
+	egg	n.蛋，鸡蛋，卵	eg
+	eight	num.八，八个，第八	eit
+	eighteen	num.十八，十八个	5ei5ti:n
+	eighth	num.第八 n.八分之一	eitW
+	eighty	num.八十，八十个	5eiti
+	either	pron.(两者)任何一个	5BiTE7 5i:TE
+	elaborate	a.复杂的；精心制作的	i5lAbErit
+	elastic	n.松紧带 a.有弹性的	i5lAstik
+	elbow	n.肘，肘部；弯管	5elbEu
+	elder	a.年龄较大的 n.长者	5eldE
+	elect	vt.选举，推选；选择	i5lekt
+	election	n.选举，选择权；当选	i5lekFEn
+	electric	a.电的，电动的	i5lektrik
+	electrical	a.电的，电气科学的	i5lektrikEl
+	electricity	n.电，电学；电流	ilek5trisiti
+	electron	n.电子	i5lektrCn
+	electronic	a.电子的	ilek5trCnik
+	electronics	n.电子学	ilek5trCniks
+	element	n.成分；要素；元素	5elimEnt
+	elementary	a.基本的；初级的	eli5mentEri
+	elephant	n.象	5elifEnt
+	elevator	n.电梯；升降机	5eliveitE
+	eleven	num.十一，十一个	i5levn
+	eleventh	num.第十一(个)	i5levnW
+	enthusiasm	n.热情，热心，热忱	in5Wju:ziAzEm
+	enthusiastic	a.热情的，热心的	inWju:zi5Astik
+	entire	a.全部的，整个的	in5tBiE
+	entitle	vt.给…权利(或资格)	in5tBitl
+	entrance	n.入口，门口；进入	5entrEns
+	entry	n.入口处；登记；进入	5entri
+	envelope	n.信封；封套；封皮	5envElEup
+	environment	n.环境，外界；围绕	in5vBiErEnmEnt
+	envy	vt.&n.妒忌；羡慕	5envi
+	equal	a.相等的；平等的	5i:kwEl
+	equality	n.等同，平等；相等	i(:)5kwCliti
+	equation	n.方程(式)；等式	i5kweiFEn
+	equip	vt.装备，配备	i5kwip
+	equipment	n.装备，设备，配备	i5kwipmEnt
+	equivalent	a.相等的；等量的	i5kwivElEnt
+	era	n.时代，年代；纪元	5iErE
+	erect	vt.建造；使竖立	i5rekt
+	error	n.错误，谬误；差错	5erE
+	escape	vi.逃跑；逸出 n.逃跑	is5keip
+	especially	ad.特别，尤其，格外	is5peFEli
+	essay	n.短文，散文，小品文	5esei
+	essential	a.必要的，本质的	i5senFEl
+	establish	vt.建立，设立；确立	is5tAbliF
+	establishment	n.建立，设立，确立	is5tAbliFmEnt
+	estimate	vt.估计，评价 n.估计	5estimit7 5estimeit
+	Europe	n.欧洲	5juErEp
+	European	a.欧洲的 n.欧洲人	juErE5pi:En
+	evaluate	vt.评价，估…的价	i5vAljueit
+	evaporate	vt.使蒸发 vi.蒸发	i5vApEreit
+	eve	n.前夜，前夕，前一刻	i:v
+	even	ad.甚至；甚至更，还	5i:vEn
+	even	a.均匀的；平的	5i:vEn
+	evening	n.傍晚，黄昏，晚上	5i:vniN
+	event	n.事件，大事；事变	i5vent
+	eventually	ad.终于；最后	i5ventjuEli
+	ever	ad.在任何时候；曾经	5evE
+	every	a.每一的；每隔…的	5evri
+	everybody	pron.每人，人人	5evribCdi
+	everyday	a.每天的，日常的	5evridei
+	everyone	pron.每人，人人	5evriwQn
+	everything	pron.每件事，事事	5evriWiN
+	everywhere	ad.到处，处处	5evriweE
+	evidence	n.根据；证据，证人	5evidEns
+	evident	a.明显的，明白的	5evidEnt
+	experimental	a.实验的，试验的	iksperi5mentl
+	expert	n.专家 a.熟练的	5ekspE:t
+	explain	vt.解释；为…辩解	iks5plein
+	explanation	n.解释，说明；辩解	eksplE5neiFEn
+	explode	vt.使爆炸 vi.爆炸	iks5plEud
+	exploit	vt.剥削；利用；开拓	5eksplCit7 iks5plRit
+	explore	vt.&vi.探险，探索	iks5plC:
+	explosion	n.爆炸，爆发，炸裂	iks5plEuVEn
+	explosive	n.炸药 a.爆炸的	iks5plEusiv
+	export	vt.输出，出口；运走	eks5pC:t7 5ekspR:t
+	expose	vt.使暴露；揭露	iks5pEuz
+	exposure	n.暴露；揭露；曝光	iks5pEuVE
+	express	vt.表示 n.快车，快递	iks5pres
+	expression	n.词句；表达；表情	iks5preFEn
+	extend	vt.延长；扩大；致	iks5tend
+	extension	n.延长部分；伸展	iks5tenFEn
+	extensive	a.广阔的；广泛的	iks5tensiv
+	extent	n.广度；范围；程度	iks5tent
+	exterior	a.外部的；对外的	eks5tiEriE
+	external	a.外部的，外面的	eks5tE:nl
+	extra	a.额外的 ad.特别地	5ekstrE
+	extraordinary	a.非同寻常的，特别的	iks5trC:dinEri
+	extreme	a.极度的；尽头的	iks5tri:m
+	extremely	ad.极端，极其，非常	iks5tri:mli
+	eye	n.眼睛；眼力；鉴赏力	Bi
+	eyesight	n.视力，目力	5BisBit
+	beneficial	a.有利的，有益的	beni5fiFEl
+	benefit	n.利益；恩惠；津贴	5benifit
+	berry	n.浆果(如草莓等)	5beri
+	beside	prep.在…旁边	bi5sBid
+	besides	ad.而且prep.除…之外	bi5sBidz
+	best	a.最好的；最大的	best
+	bet	vt.&vi.&n.打赌	bet
+	betray	vt.背叛；辜负；泄漏	bi5trei
+	better	a.较好的 ad.更好地	5betE
+	between	prep.在…中间	bi5twi:n
+	beyond	prep.在…的那边	bi5jCnd
+	Bible	n.基督教《圣经》	5bBibl
+	bicycle	n.自行车，脚踏车	5bBisikl
+	big	a.大的，巨大的	big
+	bike	n.自行车 vi.骑自行车	bBik
+	bill	n.账单；招贴；票据	bil
+	billion	num.万亿(英)	5biljEn
+	bind	vt.捆绑；包扎；装钉	bBind
+	biology	n.生物学；生态学	bBi5ClEdVi
+	bird	n.鸟，禽	bE:d
+	birth	n.分娩，出生；出身	bE:W
+	birthday	n.生日，诞生的日期	5bE:Wdi
+	biscuit	n.(英)饼干；(美)软饼	5biskit
+	bit	n.一点，一些，小片	bit
+	bite	vt.咬，叮，螫；剌穿	bBit
+	bitter	a.痛苦的；严寒的	5bitE
+	bitterly	ad.苦苦地；悲痛地	5bitEli
+	black	a.黑色的；黑暗的	blAk
+	blackboard	n.黑板	5blAkbC:d
+	blade	n.刀刃，刀片；叶片	bleid
+	blame	vt.责备，把…归咎于	bleim
+	blank	a.空白的 n.空白	blANk
+	blanket	n.毛毯，毯子，羊毛毯	5blANkit
+	blast	n.爆炸，冲击波 vt.炸	blB:st
+	blaze	n.火；闪光 vi.燃烧	bleiz
+	bleed	vi.出血，流血；泌脂	bli:d
+	blend	vt.&vi.&n.混和	blend
+	bless	vt.为…祝福	bles
+	blind	a.瞎的；盲目的	blBind
+	block	n.街区 vt.堵塞，拦阻	blCk
+	blood	n.血，血液；血统	blQd
+	bloom	n.花；开花，开花期	blu:m
+	blossom	n.花，开花 vi.开花	5blCsEm
+	blow	vi.吹，吹动；吹响	blEu
+	blue	a.蓝色的 n.蓝色	blu:
+	board	n.板 vt.上(船、车等)	bC:d
+	boast	vi.自夸 vt.吹嘘	bEust
+	boat	n.小船，艇；渔船	bEut
+	body	n.身体；主体；尸体	5bCdi
+	boil	vi.沸腾；汽化vt.煮沸	bCil
+	brisk	a.活泼的；清新的	brisk
+	bristle	n.短而硬的毛；鬃毛	brisl
+	Britain	n.不列颠，英国	5britEn
+	British	a.不列颠的，英联邦的	5britiF
+	brittle	a.脆的；易损坏的	5britl
+	broad	a.宽的，阔的；广泛的	brC:d
+	broadcast	n.广播，播音	5brC:dkB:st
+	broken	a.被打碎的，骨折的	5brEukEn
+	bronze	n.青铜；青铜制品	brCnz
+	brood	n.同窝幼鸟 vt.孵(蛋)	bru:d
+	brook	n.小河，溪流	bruk
+	broom	n.扫帚	bru:m
+	brother	n.兄弟；同事，同胞	5brQTE
+	brow	n.额；眉，眉毛	brBu
+	brown	n.褐色，棕色	brBun
+	bruise	n.青肿，伤痕；擦伤	bru:z
+	brush	n.刷子，毛刷；画笔	brQF
+	brute	n.禽兽，畜生	bru:t
+	bubble	n.泡 vi.冒泡，沸腾	5bQbl
+	bucket	n.水桶；吊桶；铲斗	5bQkit
+	bud	n.芽，萌芽；蓓蕾	bQd
+	build	vt.建筑；建立；创立	bild
+	building	n.建筑物，大楼；建筑	5bildiN
+	bulb	n.电灯泡；球状物	bQlb
+	bulk	n.物体，容积，大批	bQlk
+	bull	n.公牛；雄的象	bul
+	bullet	n.枪弹，子弹，弹丸	5bulit
+	bunch	n.束，球，串；一群	bQntF
+	bundle	n.捆，包，束；包袱	5bQndl
+	burden	n.担子，重担；装载量	5bE:dn
+	bureau	n.局，司，处；社，所	5bjuErEu
+	burn	vi.烧，燃烧 n.烧伤	bE:n
+	burst	vt.使爆裂 vi.&n.爆炸	bE:st
+	bury	vt.埋葬，葬；埋藏	5beri
+	bus	n.公共汽车	bQs
+	bush	n.灌木，灌木丛，矮树	buF
+	business	n.商业，生意；事务	5biznis
+	busy	a.忙的，繁忙的	5bizi
+	but	conj.但是，可是	bQt
+	butcher	n.屠夫；屠杀者	5butFE
+	butter	n.黄油；奶油	5bQtE
+	butterfly	n.蝴蝶	5bQtEflBi
+	button	n.扣子；按钮 vt.扣紧	5bQtn
+	buy	vt.买，购买 vi.买	bBi
+	by	prep.在…旁；被，由	bBi
+	cabbage	n.洋白菜，卷心菜	5kAbidV
+	cabin	n.小屋；船舱，机舱	5kAbin
+	cabinet	n.橱，柜；内阁	5kAbinit
+	cable	n.缆，索；电缆；电报	5keibl
+	cafe	n.咖啡馆；小餐厅	5kAfei7 kE5fei
+	carry	vt.携带；运载；传送	5kAri
+	cart	n.二轮运货马车	kB:t
+	carve	vt.刻，雕刻；切开	kB:v
+	case	n.情况；事实；病例	keis
+	case	n.箱(子)，盒(子)，套	keis
+	cash	n.现金，现款	kAF
+	cassette	n.盒式录音带；盒子	kB:5set
+	cast	vt.投，扔，抛；浇铸	kB:st
+	castle	n.城堡；巨大建筑物	5kB:sl
+	casual	a.偶然的；随便的	5kAVjuEl
+	cat	n.猫，猫科，猫皮	kAt
+	catalog	n.目录，目录册	5kAtElCg
+	catch	vt.捉住；赶上；领会	kAtF
+	cathedral	n.总教堂；大教堂	kE5Wi:drEl
+	cattle	n.牛；牲口，家畜	5kAtl
+	cause	n.原因，理由；事业	kC:z
+	cave	n.山洞，洞穴，窑洞	keiv
+	cease	vi.&vi.&n.停止，停息	si:s
+	ceiling	n.天花板，顶蓬	5si:liN
+	celebrate	vt.庆祝；歌颂，赞美	5selibreit
+	cell	n.细胞；小房间	sel
+	cellar	n.地窑，地下室	5selE
+	cement	n.水泥；胶泥 vt.粘结	si5ment
+	cent	n.分；分币；百	sent
+	centigrade	a.百分度的	5sentigreid
+	centimetre	n.公分，厘米	5sentimi:tE
+	central	a.中心的；主要的	5sentrEl
+	centre	n.中心；中枢 vt.集中	5sentE
+	century	n.世纪，百年	5sentFuri
+	ceremony	n.典礼，仪式；礼节	5serimEni
+	certain	a.确实的；肯定的	5sE:tEn
+	certainly	ad.一定，必定；当然	5sE:tEnli
+	certainty	n.必然；肯定	5sE:tnti
+	certificate	n.证书，证件，执照	sE5tifikit
+	chain	n.链，链条，项圈	tFein
+	chair	n.椅子；主席	tFeE
+	chairman	n.主席；议长，会长	5tFeEmEn
+	chalk	n.白垩；粉笔	tFC:k
+	challenge	n.挑战；要求，需要	5tFAlEndV
+	chamber	n.会议室；房间；腔	5tFeimbE
+	champion	n.冠军，得胜者	5tFAmpjEn
+	chance	n.机会，机遇；可能性	tFB:ns
+	change	n.改变，变化；零钱	tFeindV
+	channel	n.海峡；渠道；频道	5tFAnl
+	chapter	n.章，回，篇	5tFAptE
+	character	n.性格；特性；角色	5kAriktE
+	characteristic	a.特有的 n.特性	kAriktE5ristik
+	civil	a.公民的；文职的	5sivl
+	civilization	n.文明，文化；开化	sivilBi5zeiFEn
+	civilize	vt.使文明；教育	5sivilBiz
+	claim	vt.声称，主张；索取	kleim
+	clap	vi.拍手 vt.拍，轻拍	klAp
+	clarify	vt.澄清，阐明	5klArifBi
+	clasp	n.扣子，钩子；别针	klB:sp
+	class	n.班，班级；阶级	klB:s
+	classical	a.古典的；经典的	5klAsikEl
+	classification	n.分类；分级；分类法	klAsifi5keiFEn
+	classify	vt.把…分类	5klAsifBi
+	classmate	n.同班同学	5klB:smeit
+	classroom	n.教室，课堂	5klB:srum
+	claw	n.爪，脚爪，螯	klC:
+	clay	n.粘土，泥土；肉体	klei
+	clean	a.清洁的；纯洁的	kli:n
+	clear	a.清晰的 vt.清除	kliE
+	clearly	ad.明白地，清晰地	5kliEli
+	clerk	n.店员；办事员，职员	klB:k7 klE:k
+	clever	a.聪明的；机敏的	5klevE
+	cliff	n.悬崖，峭壁	klif
+	climate	n.气候；风土，地带	5klBimit
+	climb	vi.攀登，爬 vt.爬	klBim
+	cloak	n.斗篷；覆盖(物)	klEuk
+	clock	n.钟，仪表	klCk
+	close	vt.关，闭；结束	klEuz7 klEus
+	closely	ad.紧密地，接近地	5klEusli
+	cloth	n.布；衣料；桌布	klC:W
+	clothe	vt.给…穿衣服	klEuT
+	clothes	n.衣服，服装；被褥	klEuTz
+	clothing	n.衣服，被褥	5klEuTiN
+	cloud	n.云；云状物；阴影	klBud
+	cloudy	a.多云的；云一般的	klBudi
+	club	n.俱乐部，夜总会	klQb
+	clue	n.线索，暗示，提示	klu:
+	clumsy	a.笨拙的；愚笨的	5klQmzi
+	coach	n.长途公共汽车	kEutF
+	coal	n.煤，煤块	kEul
+	coarse	a.粗的，粗糙的	kC:s
+	coast	n.海岸，海滨(地区)	kEust
+	coat	n.外套，上衣；表皮	kEut
+	cock	n.公鸡；雄禽；旋塞	kCk
+	code	n.准则；法典；代码	kEud
+	coffee	n.咖啡，咖啡茶	5kCfi
+	coil	n.(一)卷；线圈 vt.卷	kCil
+	coin	n.硬币；铸造(硬币)	kCin
+	cold	a.冷的；冷淡的 n.冷	kEuld
+	collapse	vi.倒坍；崩溃，瓦解	kE5lAps
+	collar	n.衣领，项圈	5kClE
+	complaint	n.抱怨；怨言；控告	kEm5pleint
+	complete	a.完整的；完成的	kEm5pli:t
+	completely	ad.十分，完全地	kEm5pli:tli
+	complex	a.结合的；复杂的	5kCmpleks
+	complicate	vt.使复杂；使陷入	5kCmplikeit
+	complicated	a.复杂的，难懂的	5kCmplikeitid
+	component	n.组成部分；分；组件	kEm5pEunEnt
+	compose	vt.组成，构成；创作	kEm5pEuz
+	composition	n.构成；作品；写作	kCmpE5ziFEn
+	compound	n.化合物；复合词	5kCmpBund7 kEm5pBund
+	comprehension	n.理解，理解力；领悟	kCmpri5henFEn
+	comprehensive	a.广泛的；理解的	kCmpri5hensiv
+	compress	vt.压紧，压缩	kEm5pres
+	comprise	vt.包含，包括；构成	kEm5prBiz
+	compromise	n.妥协，和解	5kCmprEmBiz
+	compute	vt.计算，估计，估算	kEm5pju:t
+	computer	n.计算机，电脑	kEm5pju:tE
+	comrade	n.同志，亲密的同伴	5kCmrid
+	conceal	vt.把…隐藏起来	kEn5si:l
+	concentrate	vt.集中；聚集；浓缩	5kCnsEntreit
+	concentration	n.集中；专注；浓缩	kCnsEn5treiFEn
+	concept	n.概念，观念，设想	5kCnsept
+	concern	n.关心，挂念；关系	kEn5sE:n
+	concerning	prep.关于	kEn5sE:niN
+	concert	n.音乐会，演奏会	5kCnsEt
+	conclude	vt.推断出；结束	kEn5klu:d
+	conclusion	n.结论，推论；结尾	kEn5klu:VEn
+	concrete	n.混凝土；具体物	5kCnkri:t
+	condemn	vt.谴责，指责；判刑	kEn5dem
+	condense	vt.压缩，使缩短	kEn5dens
+	condition	n.状况，状态；环境	kEn5diFEn
+	conduct	n.举止，行为；指导	5kCndEkt7 kEn5dQkt
+	conductor	n.售票员；(乐队)指挥	kEn5dQktE
+	conference	n.会议，讨论会	5kCnfErEns
+	confess	vt.供认，承认；坦白	kEn5fes
+	confidence	n.信任；信赖；信心	5kCnfidEns
+	confident	n.确信的，自信的	5kCnfidEnt
+	confirm	vt.证实，肯定；批准	kEn5fE:m
+	conflict	n.争论；冲突；斗争	5kCnflikt7 kEn5flikt
+	confuse	vt.使混乱，混淆	kEn5fju:z
+	confusion	n.混乱；骚乱；混淆	kEn5fju:VEn
+	continue	vt.继续，连续；延伸	kEn5tinju(:)
+	continuous	a.连续不断的，持续的	kEn5tinjuEs
+	contract	n.契约，合同；婚约	5kCntrAkt7 kEn5trAkt
+	contradiction	n.矛盾，不一致；否认	kCntrE5dikFEn
+	contrary	a.相反的 n.相反	5kCntrEri
+	contrast	n.对比，对照，悬殊	5kCntrAst7 kEn5trAst
+	contribute	vt.捐献，捐助；投稿	kEn5tribju(:)t
+	control	vt.控制，克制 n.控制	kEn5trEul
+	convenience	n.便利，方便；厕所	kEn5vi:njEns
+	convenient	a.便利的；近便的	kEn5vi:njEnt
+	convention	n.习俗，惯例；公约	kEn5venFEn
+	conventional	a.普通的；习惯的	kEn5venFEnl
+	conversation	n.会话，非正式会谈	kCnvE5seiFEn
+	conversely	ad.相反地	5kCnvE:sli
+	conversion	n.转变，转化；改变	kEn5vE:FEn
+	convert	vt.使转变；使改变	kEn5vE:t7 5kCnvE:t
+	convey	vt.传送；运送；传播	kEn5vei
+	convince	vt.使确信，使信服	kEn5vins
+	cook	vt.烹调，煮 vt.烧菜	kuk
+	cool	a.凉的，冷静的	ku:l
+	cooperate	vi.合作，协作；配合	kEu5CpEreit
+	coordinate	vt.使协调，调节	kEu5Cdinit
+	cope	vi.对付，应付	kEup
+	copper	n.铜；铜币，铜制器	5kCpE
+	copy	n.抄件 vt.抄写，复制	5kCpi
+	cord	n.细绳，粗线，索	kC:d
+	cordial	a.真诚的，诚恳的	5kC:djEl
+	core	n.果实的心，核心	kC:
+	corn	n.谷物；(英)小麦	kC:n
+	corner	n.角；犄角；边远地区	5kC:nE
+	corporation	n.公司，企业；社团	kC:pE5reiFEn
+	correct	a.正确的 vt.纠正	kE5rekt
+	correction	n.改正，纠正，修改	kE5rekFEn
+	correspond	vi.相符合；相当	kCris5pRnd
+	correspondent	n.通信者；通讯员	kCris5pRndEnt
+	corresponding	a.相应的；符合的	kCris5pRndiN
+	corridor	n.走廊，回廊，通路	5kCridR:
+	cost	n.价格，代价；成本	kCst
+	costly	a.昂贵的；价值高的	5kCstli
+	cottage	n.村舍，小屋	5kCtidV
+	cotton	n.棉；棉线；棉布	5kCtn
+	cough	vi.咳，咳嗽 n.咳嗽	kCf
+	could	aux.v.(can的过去式)	kud7 kEd
+	cubic	a.立方形的；立方的	5kju:bik
+	cucumber	n.黄瓜	5kju:kQmbE
+	cultivate	vt.耕；种植；培养	5kQltiveit
+	culture	n.文化，文明；教养	5kQltFE
+	cunning	a.狡猾的，狡诈的	5kQniN
+	cup	n.杯子；(一)杯；奖杯	kQp
+	cupboard	n.碗柜，碗碟橱；食橱	5kQbEd
+	cure	vt.医治；消除 n.治愈	kjuE
+	curiosity	n.好奇，好奇心；珍品	kjuEri5Csiti
+	curious	a.好奇的；稀奇古怪的	5kjuEriEs
+	curl	n.卷毛；螺旋 vi.卷曲	kE:l
+	current	a.当前的；通用的	5kQrEnt
+	curse	n.诅咒，咒骂；天谴	kE:s
+	curtain	n.帘，窗帘；幕(布)	5kE:tn
+	curve	n.曲线；弯 vt.弄弯	kE:v
+	cushion	n.垫子，坐垫，靠垫	5kuFEn
+	custom	n.习惯，风俗；海关	5kQstEm
+	customer	n.顾客，主顾	5kQstEmE
+	cut	vt.切，割，剪；减少	kQt
+	cycle	n自行车，循环	5sBikl
+	daily	a.每日的 n.日报	5deili
+	dairy	n.牛奶场；乳制品	5deEri
+	dam	n.水坝，水堤；障碍物	dAm
+	damage	vt.损害，毁坏 n.损害	5dAmidV
+	damp	a.潮湿的，有湿气的	dAmp
+	dance	vi.跳舞；摇晃 n.舞	dB:ns
+	danger	n.危险；危险事物	5deindVE
+	dangerous	a.危险的，不安全的	5deindVrEs
+	dare	vt.&aux.v.敢；竟敢	deE
+	daring	a.大胆的，勇敢的	5deEriN
+	dark	a.暗的；黑色的	dB:k
+	darling	n.亲爱的人；宠儿	5dB:liN
+	dash	vt.使猛撞；溅 n.猛冲	dAF
+	data	n.数据; 资料	5deitE
+	date	n.日期 vt.注…日期	5deit
+	daughter	n.女儿	5dC:tE
+	dawn	n.黎明；开端 vi.破晓	dC:n
+	day	n.(一)天，白昼，白天	dei
+	daylight	n.白昼，日光；黎明	5deilBit
+	dead	a.死的，无生命的	ded
+	deadly	a.致命的，死一般的	5dedli
+	deaf	a.聋的；不愿听的	def
+	deal	n.买卖；待遇 vt.给予	di:l
+	dear	a.亲爱的 int.啊	diE
+	death	n.死，死亡；灭亡	deW
+	debate	n.&vi.争论，辩论	di5beit
+	debt	n.债，债务，欠债	det
+	decade	n.十年，十年期	5dekeid
+	decay	vi.腐烂；衰败 n.腐烂	di5kei
+	depth	n.深度；深厚；深处	depW
+	derive	vt.取得 vi.起源	di5rBiv
+	descend	vi.下来，下降；下倾	di5send
+	describe	vt.形容；描写，描绘	dis5krBib
+	description	n.描写，形容；种类	dis5kripFEn
+	desert	n.沙漠 vt.离弃；擅离	5dezEt7 di5zE:t
+	deserve	vt.应受，值得	di5zE:v
+	design	vt.设计 n.设计；图样	di5zBin
+	desirable	a.值得相望的；可取的	di5zBiErEbl
+	desire	vt.相望；要求 n.愿望	di5zBiE
+	derive	vt.取得 vi.起源	di5rBiv
+	descend	vi.下来，下降；下倾	di5send
+	describe	vt.形容；描写，描绘	dis5krBib
+	description	n.描写，形容；种类	dis5kripFEn
+	desert	n.沙漠 vt.离弃；擅离	5dezEt7 di5zE:t
+	deserve	vt.应受，值得	di5zE:v
+	design	vt.设计 n.设计；图样	di5zBin
+	desirable	a.值得相望的；可取的	di5zBiErEbl
+	desire	vt.相望；要求 n.愿望	di5zBiE
+	desk	n.书桌，办公桌	desk
+	despair	n.绝望 vi.绝望	dis5peE
+	desperate	a.拼死的；绝望的	5despErit
+	despise	vt.鄙视，蔑视	dis5pBiz
+	despite	prep.不管，不顾	dis5pBit
+	destination	n.目的地，终点；目标	desti5neiFEn
+	destroy	vt.破坏；消灭；打破	dis5trCi
+	destruction	n.破坏，毁灭，消灭	dis5trQkFEn
+	detail	n.细节；枝节；零件	5di:teil
+	detect	vt.察觉，发觉；侦察	di5tekt
+	detection	n.察觉，发觉；侦察	di5tekFEn
+	determination	n.决心；决定；确定	ditE:mi5neiFEn
+	determine	vt.决定；查明；决心	di5tE:min
+	develop	vt.发展；形成；开发	di5velEp
+	development	n.发展；开发；生长	di5velEpmEnt
+	device	n.器械，装置；设计	di5vBis
+	devil	n.魔鬼，恶魔	5devl
+	devise	vt.设计，发明	di5vBiz
+	devote	vt.将…奉献，致力于	di5vEut
+	dew	n.露，露水	dju:
+	diagram	n.图解，图表，简图	5dBiEgrAm
+	dial	n.钟面；拨号盘 vt.拨	5dBiEl
+	dialect	n.方言，土语，地方话	5dBiElekt
+	dialog	n.对话，对白	5dBiElCg
+	diameter	n.直径	dBi5AmitE
+	bold	a.大胆的；冒失的	bEuld
+	bolt	n.螺栓；插销 vt.闩门	bEult
+	bomb	n.炸弹 vt.轰炸	bCm
+	bond	n.联结，联系；公债	bCnd
+	bone	n.骨，骨骼	bEun
+	book	n.书，书籍 vt.预定	buk
+	boot	n.靴子，长统靴	bu:t
+	booth	n.货摊；公用电话亭	bu:T
+	border	n.边，边缘；边界	5bC:dE
+	bore	vt.使厌烦；钻，挖	bC:
+	born	a.天生的；出生的	bC:n
+	borrow	vt.借，借用，借人	5bCrEu
+	bosom	n.胸，胸部；内心	5buzEm
+	boss	n.老板，上司 vt.指挥	bCs
+	both	pron.两者(都)	bEuW
+	bother	vt.烦扰，迷惑 n.麻烦	5bCTE
+	bottle	n.瓶，酒瓶；一瓶	5bCtl
+	bottom	n.底，底部，根基	5bCtEm
+	bough	n.树枝	bBu
+	bounce	vi.反跳，弹起；跳起	bBuns
+	bound	a.一定的；有义务的	bBund
+	boundary	n.分界线，办界	5bBundEri
+	bow	n.弓；蝴蝶结；鞠躬	bBu
+	bowl	n.碗，钵；碗状物	bEul
+	box	n.箱，盒；包箱	bCks
+	box	vi.拳击，打拳	bCks
+	boy	n.男孩，少年；家伙	bCi
+	brain	n.脑，脑髓；脑力	brein
+	brake	n.闸，刹车 vi.制动	breik
+	branch	n.树枝；分部；分科	brB:ntF
+	brand	n.商品；烙印 vt.铭刻	brAnd
+	brandy	n.白兰地酒	5brAndi
+	brass	n.黄铜；黄铜器	brB:s
+	brave	a.勇敢的，华丽的	breiv
+	bread	n.面包；食物，粮食	bred
+	breadth	n.宽度，幅度；幅面	bredT
+	break	vt.打破；损坏；破坏	breik
+	breakfast	n.早饭，早餐	5brekfEst
+	breast	n.乳房；胸脯，胸膛	brest
+	breath	n.气息，呼吸；气味	breW
+	breathe	vi.呼吸 vt.呼吸	bri:T
+	breed	n.品种 vt.使繁殖	bri:d
+	breeze	n.微风，和风	bri:z
+	brick	n.砖，砖块；砖状物	brik
+	bridge	n.桥，桥梁；桥牌	bridV
+	brief	a.简短的；短暂的	bri:f
+	bright	a.明亮的；聪明的	brBit
+	brighten	vt.使发光；使快活	5brBitn
+	brilliant	a.光辉的；卓越的	5briljEnt
+	brim	n.边，边缘；帽沿	brim
+	bring	vt.带来；引出；促使	briN
+	cafeteria	n.自助食堂	kAfi5tiEriE
+	cage	n.笼；鸟笼，囚笼	keidV
+	cake	n.饼，糕，蛋糕	keik
+	calculate	vt.计算；估计；计划	5kAlkjuleit
+	calculation	n.计算，计算结果	kAlkju5leiFEn
+	calculator	n.计算器，计算者	5kAlkjuleitE
+	calendar	n.日历，历书；历法	5kAlindE
+	call	vt.把…叫做；叫，喊	kC:l
+	calm	a.静的，平静的	kB:m
+	camel	n.骆驼	5kAmEl
+	camera	n.照相机，摄影机	5kAmErE
+	camp	n.野营，营地，兵营	kAmp
+	campaign	n.战役；运动	kAm5pein
+	campus	n.校园，学校场地	5kAmpEs
+	can	aux.v.能，会，可能	kAn
+	can	n.罐头，听头；容器	kAn
+	Canada	n.加拿大	5kAnEdE
+	Canadian	a.加拿大的	kE5neidjEn
+	canal	n.运河；沟渠；管	kE5nAl
+	cancel	vt.取消，撤消；删去	5kAnsEl
+	cancer	n.癌，癌症，肿瘤	5kAnsE
+	candidate	n.候选人；投考者	5kAndidit
+	candle	n.蜡烛；烛形物；烛光	5kAndl
+	candy	n.糖果；砂糖结晶	5kAndi
+	cannon	n.大炮，火炮；榴弹炮	5kAnEn
+	canoe	n.独木舟，皮艇，划子	kE5nu:
+	canteen	n.小卖部；临时餐室	kAn5ti:n
+	canvas	n.粗帆布；一块油画布	5kAnvEs
+	cap	n.帽子，便帽；帽状物	kAp
+	capable	a.有能力的，有才能的	5keipEbl
+	capacity	n.容量；能力；能量	kE5pAsiti
+	capital	n.资本，资金；首都	5kApitl
+	captain	n.陆军上尉；队长	5kAptin
+	captive	n.俘虏，被监禁的人	5kAptiv
+	capture	vt.捕获，俘获；夺得	5kAptFE
+	car	n.汽车，小汽车，轿车	kB:
+	carbon	n.碳	5kB:bEn
+	card	n.卡，卡片，名片	kB:d
+	care	vi.关心，介意 n.小心	keE
+	career	n.生涯，职业，经历	kE5riE
+	careful	a.仔细的；细致的	5keEful
+	careless	a.粗心的，漫不经心的	5keElis
+	cargo	n.船货，货物	5kB:gEu
+	carpenter	n.木工，木匠	5kB:pintE
+	carpet	n.地毯，毡毯，毛毯	5kB:pit
+	carriage	n.客车厢；四轮马车	5kAridV
+	carrier	n.运输工具；运载工具	5kAriE
+	carrot	n.胡罗卜	5kArEt
+	charge	vt.索价；控告 n.费用	tFB:dV
+	charity	n.施舍；慈善事业	5tFAriti
+	charming	a.迷人的，可爱的	5tFB:miN
+	chart	n.图，图表；海图	tFB:t
+	chase	n.追逐，追赶，追求	tFeis
+	cheap	a.廉价的；劣质的	tFi:p
+	cheat	vt.骗取；哄 vi.行骗	tFi:t
+	check	vt.检查；制止 n.检查	tFek
+	cheek	n.面颊，脸蛋	tFi:k
+	cheer	vt.使振作；欢呼	tFiE
+	cheerful	a.快乐的，愉快的	5tFiEful
+	cheese	n.乳酪，干酪	tFi:z
+	chemical	a.化学的 n.化学制品	5kemikl
+	chemist	n.化学家；药剂师	5kemist
+	chemistry	n.化学	5kemistri
+	cheque	n.支票	tFek
+	cherry	n.樱桃；樱桃树	5tFeri
+	chess	n.棋；国际象棋	tFes
+	chest	n.胸腔，胸膛；箱子	tFest
+	chew	vt.咀嚼，嚼碎	tFu:
+	chicken	n.小鸡，小鸟；鸡肉	5tFikin
+	chief	a.主要的；首席的	tFi:f
+	child	n.小孩，儿童；儿子	tFBild
+	childhood	n.童年，幼年；早期	5tFBildhud
+	childish	a.孩子的；幼稚的	5tFBildiF
+	chill	vt.使变冷 n.寒冷	tFil
+	chin	n.颏，下巴	tFin
+	China	n.中国	5tFBinE
+	china	n.瓷器，瓷料	5tFBinE
+	Chinese	a.中国的 n.中国人	5tFBi5ni:z
+	chocolate	n.巧克力；巧克力糖	5tFCkElit
+	choice	n.选择，抉择	tFCis
+	choke	vt.使窒息；塞满	tFEuk
+	choose	vt.选择，挑选；情愿	tFu:z
+	chop	vt.砍，劈；切细vi.砍	tFCp
+	Christian	n.基督教徒；信徒	5kristiEn
+	Christmas	n.圣诞节	5krismEs
+	church	n.教堂，礼拜堂；教会	tFE:tF
+	cigarette	n.香烟，纸烟，卷烟	sigE5ret
+	cinema	n.电影院；电影，影片	5sinimE
+	circle	n.圆，圆周；圈子	5sE:kl
+	circuit	n.电路；环行；巡行	5sE:kit
+	circular	a.圆的；循环的	5sE:kjulE
+	circulate	vt.使循环 vi.循环	5sE:kjuleit
+	circumference	n.圆周，周长，圆周线	sE5kQmfErEns
+	circumstance	n.情况，条件；境遇	5sE:kEmstEns
+	citizen	n.公民；市民，居民	5sitizn
+	city	n.城市，都市	5siti
+	colleague	n.同事，同僚	5kCli:g
+	collect	vt.收集 vi.收款	kE5lekt
+	collection	n.搜集，收集；收藏品	kE5lekFEn
+	collective	a.集体的；集合性的	kE5lektiv
+	college	n.学院；大学	5kClidV
+	collision	n.碰撞；冲突	kE5liV(E)n
+	colonel	n.陆军上校；中校	5kE:nl
+	colony	n.殖民地；侨居地	5kClEni
+	color	n.颜色，彩色；颜料	5kQlE
+	column	n.柱，支柱，圆柱	5kClEm
+	comb	n.梳子 vt.梳理	kEum
+	combination	n.结合，联合；化合	kCmbi5neiFEn
+	combine	vt.使结合；兼有	kEm5bBin
+	come	vi.来，来到；出现	kQm
+	comfort	n.舒适；安慰 vt.安慰	5kQmfEt
+	comfortable	a.舒适的，安慰的	5kQmfEtEbl
+	command	vt.命令，指挥；控制	kE5mB:nd
+	commander	n.司令官，指挥员	kE5mB:ndE
+	comment	n.评论，意见；注释	5kCment
+	commerce	n.商业，贸易；社交	5kCmE(:)s
+	commercial	a.商业的；商品化的	kE5mE:FEl
+	commission	n.委任状；委员会	kE5miFEn
+	commit	vt.犯(错误);干(坏事)	kE5mit
+	committee	n.委员会；全体委员	kE5miti
+	common	a.普通的；共同的	5kCmEn
+	commonly	ad.普通地，一般地	5kCmEnli
+	communicate	vi.通讯；传达；传播	kE5mju:nikeit
+	communication	n.通讯；传达；交通	kE5mju:nikeiFEn
+	communism	n.共产主义	5kCmjunizEm
+	communist	n.共产党员	5kCmjunist
+	community	n.社区；社会；公社	kE5mju:niti
+	companion	n.同伴；共事者；伴侣	kEm5pAniEn
+	company	n.公司，商号；同伴	5kQmpEni
+	comparative	a.比较的，相对的	kEm5pArEtiv
+	compare	vt.比较，对照；比作	kEm5peE
+	comparison	n.比较，对照；比似	kEm5pArisn
+	compass	n.罗盘，指南针；圆规	5kQmpEs
+	compel	vt.强迫，迫使屈服	kEm5pel
+	compete	vi.比赛；竞争；对抗	kEm5pi:t
+	competent	a.有能力的；应该做的	5kCmpitEnt
+	competition	n.竞争，比赛	kCmpE5tiFEn
+	compile	vt.编辑，编制，搜集	kEm5pBil
+	complain	vi.抱怨，拆苦；控告	kEm5plein
+	congratulate	vt.祝贺，向…道喜	kEn5grAtjuleit
+	congratulation	n.祝贺；祝贺词	kEngrAtju5leiFEn
+	congress	n.大会；国会，议会	5kCNgres
+	conjunction	n.接合，连接；连接词	kEn5dVQNkFEn
+	connect	vt.连接，连结；联系	kE5nekt
+	connection	n.连接，联系；连贯性	kE5nekFEn
+	conquer	vt.征服，战胜；破除	5kCNkE
+	conquest	n.攻取，征服；克服	5kCNkwest
+	conscience	n.良心，道德心	5kCnFEns
+	conscious	a.意识到的；有意的	5kCnFEs
+	consciousness	n.意识，觉悟；知觉	5kCnFEsnis
+	consent	n.同意，赞成 vi.同意	kEn5sent
+	consequence	n.结果，后果	5kCnsikwEns
+	consequently	ad.因此，因而，所以	5kCnsikwEntli
+	conservation	n.保存，保护；守恒	kCnsE(:)5veiFEn
+	conservative	a.保守的 n.保守的人	kEn5sE:vEtiv
+	consider	vt.认为；考虑；关心	kEn5sidE
+	considerable	a.相当大的；重要的	kEn5sidErEbl
+	considerate	a.考虑周到的；体谅的	kEn5sidErit
+	consideration	n.考虑，思考；体贴	kEnsidE5reiFEn
+	consist	vi.由…组成；在于	kEn5sist
+	consistent	a.坚持的，一贯的	kEn5sistEnt
+	constant	a.经常的；永恒的	5kCnstEnt
+	constitution	n.章程；体质；构造	kCnsti5tju:FEn
+	construct	vt.建造；建设；构筑	kEn5strQkt
+	construction	n.建造；建筑；建筑物	kEn5strQkFEn
+	consult	vt.请教，查阅	kEn5sQlt
+	consume	vt.消耗，消费；消灭	kEn5sju:m
+	consumption	n.消耗量；消耗	kEn5sQmpFEn
+	contact	vt.使接触；与…联系	5kCntAkt7 kEn5tAkt
+	contain	vt.包含，容纳；等于	kEn5tein
+	container	n.容器；集装箱	kEn5teinE
+	contemporary	a.当代的，同时代的	kEn5tempErEri
+	contempt	n.轻蔑；藐视；受辱	kEn5tempt
+	content	n.内容，目录；容量	5kCntent7 kEn5tent
+	content	a.满意的，满足的	5kCntent7 kEn5tent
+	contest	vt.争夺，争取；辩驳	kEn5test7 5kCntest
+	continent	n.大陆；陆地；洲	5kCntinEnt
+	continual	a.不断的；连续的	kEn5tinjuEl
+	council	n.理事会，委员会	5kBunsil
+	count	vt.计算 vi.数，计数	kBunt
+	counter	n.柜台；计数器	5kBuntE
+	country	n.国家，国土；农村	5kQntri
+	countryside	n.乡下，农村	5kQntrisBid
+	county	n.英国的郡，美国的县	5kBunti
+	couple	n.夫妇；(一)对；几个	5kQpl
+	courage	n.勇气，胆量，胆识	5kQridV
+	course	n.课程；过程；一道菜	kC:s
+	court	n.法院，法庭；庭院	kC:t
+	cousin	n.堂(或表)兄弟(姐妹)	5kQzn
+	cover	vt.盖，包括 n.盖子	5kQvE
+	cow	n.母牛，奶牛；母兽	kBu
+	coward	n.懦夫；胆怯者	5kBuEd
+	crack	n.裂缝，裂纹 vi.爆裂	krAk
+	craft	n.工艺；手艺，行业	krB:ft
+	crane	n.起重机，摄影升降机	krein
+	crash	vi.碰撞，坠落 n.碰撞	krAF
+	crawl	vi.爬，爬行	krC:l
+	crazy	a.疯狂的，荒唐的	5kreizi
+	cream	n.奶油，乳脂；奶油色	kri:m
+	create	vt.创造；引起，产生	kri(:)5eit
+	creative	a.创造性的，创作的	kri(:)5eitiv
+	creature	n.生物，动物，家畜	5kri:tFE
+	credit	n.信用贷款；信用	5kredit
+	creep	vi.爬行；缓慢地行进	kri:p
+	crew	n.全体船员	kru:
+	cricket	n.板球；蟋蟀	5krikit
+	crime	n.罪，罪行；犯罪	krBim
+	criminal	n.犯人，罪犯，刑事犯	5kriminl
+	cripple	n.跛子；残废的人	5kripl
+	crisis	n.危机；存亡之际	5krBisis
+	critic	n.批评家，爱挑剔的人	5kritik
+	critical	a.决定性的；批评的	5kritikEl
+	criticism	n.批评；批判；评论	5kritisizEm
+	criticize	vt.批评；评论；非难	5kritisBiz
+	crop	n.农作物，庄稼；一熟	krCp
+	cross	vt.穿过；使交叉	krCs
+	crow	n.鸦，乌鸦 vi.啼	krEu
+	crowd	n.群；大众；一伙人	krBud
+	crown	n.王冠，冕；花冠	krBun
+	crude	a.简陋的；天然的	kru:d
+	cruel	a.残忍的，残酷的	5kruEl
+	crush	vt.压碎，碾碎；镇压	krQF
+	crust	n.面包皮；硬外皮	krQst
+	cry	vi.哭，哭泣；叫喊	krBi
+	crystal	n.水晶，结晶体；晶粒	5kristl
+	cube	n.立方形；立方	kju:b
+	deceit	n.欺骗，欺诈	di5si:t
+	deceive	vt.欺骗，蒙蔽，行骗	di5si:v
+	December	n.十二月	di5sembE
+	decent	a.正派的；体面的	5di:snt
+	decide	vt.决定，决心；解决	di5sBid
+	decision	n.决定，决心；果断	di5siVEn
+	deck	n.甲板；舱面；层面	dek
+	declare	vt.断言；声明；表明	di5kleE
+	decorate	vt.装饰，装璜，修饰	5dekEreit
+	decrease	vi.&n.减少，减少	di5kri:s7 5di:kri:s
+	deduce	vt.演绎，推论，推断	di5dju:s
+	deed	n.行为；功绩；契约	di:d
+	deep	a.深的；纵深的	di:p
+	deepen	vt.加深 vi.深化	5di:pEn
+	deer	n.鹿	diE
+	defeat	vt.战胜，击败；挫败	di5fi:t
+	defect	n.缺点，缺陷，欠缺	di5fekt
+	defence	n.防御；防务；辩护	di5fens
+	defend	vt.保卫，防守	di5fend
+	define	vt.给…下定义；限定	di5fBin
+	definite	a.明确的；肯定的	5definit
+	definitely	ad.一定地，明确地	5definitli
+	definition	n.定义，释义；定界	defi5niFEn
+	degree	n.程度；度；学位	di5gri:
+	delay	vt.推迟；耽搁；延误	di5lei
+	delete	vt.删除；擦掉	di5li:t
+	delegation	n.代表团	deli5geiFEn
+	delicate	a.纤细的；易碎的	5delikit
+	delicious	a.美味的，怡人的	di5liFEs
+	delight	n.快乐 vt.使高兴	di5lBit
+	deliver	vt.投递，送交；发表	di5livE
+	delivery	n.投递；交付；分娩	di5livEri
+	demand	vt.要求；需要；询问	di5mB:nd
+	democracy	n.民主，民主制	di5mCkrEsi
+	democratic	a.民主的，民主政体的	demE5krAtik
+	demonstrate	vt.说明；论证；表露	5demEnstreit
+	dense	a.密集的；浓厚的	dens
+	density	n.密集，稠密；密度	5densiti
+	deny	vt.否定；拒绝相信	di5nBi
+	depart	vi.离开，起程；出发	di5pB:t
+	department	n.部，司，局，处，系	di5pB:tmEnt
+	departure	n.离开，出发，起程	di5pB:tFE
+	depend	vi.依靠，依赖；相信	di5pend
+	dependent	a.依靠的，依赖的	di5pendEnt
+	deposit	vt.使沉淀；存放	di5pCzit
+	depth	n.深度；深厚；深处	depW
+	dish	n.碟，盘子；菜肴	diF
+	dishonour	n.不光彩；丢脸的人	dis5CnE
+	dislike	vt.&n.不喜爱，厌恶	dis5lBik
+	dismiss	vt.不再考虑；解雇	dis5mis
+	disorder	n.混乱，杂乱；骚乱	dis5C:dE
+	display	vt.陈列，展览；显示	dis5plei
+	disposal	n.丢掉，处理，销毁	dis5pEuzEl
+	dispose	vi.去掉，丢掉；销毁	dis5pEuz
+	displease	vt.使不愉快，使生气	dis5pli:z
+	dispute	vi.争论，争执 n.争论	dis5pju:t
+	dissatisfy	vi.使不满，使不平	dis5sAtisfBi
+	dissolve	vt.使溶解；解散	di5zClv
+	distance	n.距离，间距；远处	5distEns
+	distant	a.在远处的，疏远的	5distEnt
+	distinct	a.与其他不同的	dis5tiNkt
+	distinction	n.差别，不同，区分	dis5tiNkFEn
+	distinguish	vt.区别，辨别，认别	dis5tiNgwiF
+	distress	n.忧虑，悲伤；不幸	dis5tres
+	distribute	vt.分发，分送；分布	dis5tribju:t
+	distribution	n.分发，分配；分布	distri5bju:FEn
+	district	n.区；地区，区域	5distrikt
+	disturb	vt.打扰，扰乱；弄乱	dis5tE:b
+	ditch	n.沟，沟渠，渠道	ditF
+	dive	vi.跳水；潜水；俯冲	dBiv
+	diverse	a.不一样的，相异的	dBi5vE:s
+	divide	vt.分；分配；分开	di5vBid
+	division	n.分，分配；除法	di5viVEn
+	divorce	n.离婚，离异 vi.离婚	di5vC:s
+	do	aux.v. vt.做，干，办	du:7 du
+	dock	n.船坞；码头；船厂	dCk
+	doctor	n.医生，医师；博士	5dCktE
+	document	n.公文，文件；证件	5dCkjumEnt
+	dog	n.狗，犬，犬科动物	dCg
+	dollar	n.元(货币单位)	5dClE
+	domestic	a.本国的；家庭的	dE5mestik
+	donkey	n.驴；笨蛋	5dCNki
+	door	n.门，通道；一家	dC:
+	dorm	n.宿舍	dC:m
+	dose	n.剂量，用量；一剂	dEus
+	dot	n.点，圆点 vt.打点于	dCt
+	double	a.两倍的；双的	5dQbl
+	doubt	n.怀疑；疑虑 vt.怀疑	dBut
+	doubtful	a.难以预测的；怀疑的	5dButful
+	doubtless	ad.无疑地；很可能	5dButlis
+	downstairs	ad.在楼下 a.楼下的	5dBun5steEz
